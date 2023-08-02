@@ -1,5 +1,5 @@
-# imageResizer
+#imageResizer
 
-# A simple Python program to resize an image
+A simple Python program to resize an image.
 
-# Library used opencv
+Library used **opencv.**
